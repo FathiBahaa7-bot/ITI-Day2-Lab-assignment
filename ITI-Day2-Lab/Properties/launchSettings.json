@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ITI-Day2-Lab": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
